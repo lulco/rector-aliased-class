@@ -1,0 +1,9 @@
+{
+    "require": {
+        "guzzlehttp/guzzle": "^6.5",
+        "rector/rector-prefixed": "^0.9.16"
+    },
+    "autoload": {
+        "classmap": ["src"]
+    }
+}
